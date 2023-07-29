@@ -9,7 +9,9 @@ Add a title with your Pokémon trainer name using `<header>` and `<h1>` tags
 Inside the `<main>` tag, build a unordered Pokémon list `<ul>` of your 3 favorite creatures
 
 ## Challenge #3 
-Use a `<img>` tag to display the Pokémon's picture, the `<h2>` tag for the Pokémon's name, and the `<p>` tag for a short description inside each `<li>`.
+Use a `<img>` tag to display th                                               
+ 
+ e Pokémon's picture, the `<h2>` tag for the Pokémon's name, and the `<p>` tag for a short description inside each `<li>`.
 
 ## Challenge #4
 Add the alternative text (`alt`), the Pokémon's name and description accordingly of the images.
